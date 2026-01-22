@@ -1,0 +1,24 @@
+.git/
+.curseclient
+.fabric/
+.cache/
+.quilt/
+.gradle/
+.mixin/
+.mixin.out/
+.minecraft/
+run/
+out/
+build/
+bin/
+.DS_Store
+Thumbs.db
+*.log
+logs/
+crash-reports/
+debug/
+saves/
+backups/
+screenshots/
+config/*.bak   # Config backups
+config/*.old

@@ -1,0 +1,1 @@
+{"jarName":"botarium-fabric-1.20.1-2.3.4.jar","modId":"botarium","version":"2.3.4","mixinConfigs":["botarium.fabric.mixins.json"],"jarJarMods":[{"jarName":"energy-3.0.0.jar","modId":"team_reborn_energy","version":"3.0.0","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":1689757867,"modrinthHash":"20e1c12cd5e4b4127c7b20ab7e7f81e7119dbf8b"}
