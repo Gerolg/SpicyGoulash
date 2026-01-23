@@ -25,6 +25,13 @@
     "curseForgeHash": 788280319,
     "modrinthHash": "0f31abe886e9785592f1896c7c1ffe5992e2c6de"
   },
+  "AltOriginGui-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
+    "modId": "altorigingui",
+    "version": "1.1.1",
+    "curseForgeHash": 1702757171,
+    "modrinthHash": "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6"
+  },
   "amendments-1.20-2.2.5-fabric.jar": {
     "jarName": "amendments-1.20-2.2.5-fabric.jar",
     "modId": "amendments",
@@ -311,6 +318,13 @@
     "version": "18.0.4",
     "curseForgeHash": 2941360662,
     "modrinthHash": "cd193e02621a599dedf5f07bba761e59a2bff29a"
+  },
+  "digs_dnd_origins-1.20.1-0.0.11.jar": {
+    "jarName": "digs_dnd_origins-1.20.1-0.0.11.jar",
+    "modId": "digs_dnd_origins",
+    "version": "1.20.1-0.0.11",
+    "curseForgeHash": 199690061,
+    "modrinthHash": "94a4c8867885ff1a7da97e9be3ea2615a608f2a9"
   },
   "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar": {
     "jarName": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
@@ -857,6 +871,13 @@
     "version": "0.49.10+1.20.1",
     "curseForgeHash": 1033762985,
     "modrinthHash": "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf"
+  },
+  "Powah-5.0.11.jar": {
+    "jarName": "Powah-5.0.11.jar",
+    "modId": "powah",
+    "version": "5.0.11",
+    "curseForgeHash": 1069918928,
+    "modrinthHash": "8885884da9e4470520faed11347507e3195e642d"
   },
   "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar": {
     "jarName": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
